@@ -1,0 +1,40 @@
+body{
+    background-color: midnightblue;
+    text-align: center;
+    
+}
+h1{text-shadow: whitesmoke;
+    color: yellow;
+    
+
+}
+img{
+    border: solid greenyellow;
+    box-shadow: greenyellow;
+    height: 400px;
+    width: 60%;
+
+}
+.Caption{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+p{
+    color: white;
+}
+#tribute-data{
+background-color: midnightblue;
+    box-shadow: rgb(5, 5, 78);
+    border: solid rgb(5, 5, 78);
+}
+footer{
+    font-size: 10px;
+}
+#teddy-design{
+    color: yellow;
+}
+}
+@media (min: width 768px;) and (max-width: 1024px;){
+
+}
+    
